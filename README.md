@@ -1,0 +1,1 @@
+Projeto em Java básico que implementa um menu interativo no terminal para cadastro e listagem de pessoas. Utiliza arrays, laço de repetição, estrutura de decisão (switch) e entrada de dados com Scanner, reforçando conceitos fundamentais da linguagem Java.
